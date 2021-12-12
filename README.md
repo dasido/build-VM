@@ -1,7 +1,7 @@
 
 # Build-VM
 ## Introduction
-This is a home assignment I received for a DevOps position, the assignment is to create a sort of a pipeline for deployment using Git, Jenkins & Apache.
+This assignment I received for a DevOps position, the assignment is to create a sort of a pipeline for deployment using Git, Jenkins & Apache.
 
 ## Motivation
 I am a 4th year Software Engineering student and I took this project in purpose to learn new technologies by "getting my hands dirty" with dealing with a real problem that I could encounter in the industry.
