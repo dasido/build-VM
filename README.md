@@ -61,4 +61,9 @@ To access the Jenkins landing page, we need to add port `8888` to the same IP.
 
 Like so: `172.28.128.22:8888`
 
-#### //
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
+
