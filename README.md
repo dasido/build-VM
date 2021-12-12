@@ -1,5 +1,5 @@
 
-# DevOps-Home-Assignment
+# Build-VM
 ## Introduction
 This is a home assignment I received for a DevOps position, the assignment is to create a sort of a pipeline for deployment using Git, Jenkins & Apache.
 
